@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "plots",
+  "info": {
+    "singularName": "plot",
+    "pluralName": "plots",
+    "displayName": "Plot",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "item": {
+      "type": "json"
+    }
+  }
+}
